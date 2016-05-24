@@ -277,7 +277,7 @@ word:
 
 ### word word word
 
-word word word word word word word word word & word, word word word word word word word word word word word.
+word word word word word word word word word & word, word word word word word word word word word word word. word word bworde word word word word word word word word, word word word word word word word word word word.
 
 word: word (word word word word-word word)
 
@@ -297,7 +297,7 @@ word:
 
 1. word word word, word word word
 2. word word word word, word word word
-3. word word, word word word word word word word word word
+3. word word, word word word word word word new-word word word
 
 ### word word word
 
